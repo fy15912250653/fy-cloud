@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface DeptDao {
     /**
-     * 根据id获取dept
+     * 根据id获取 dept
      * @param id
      * @return
      */
