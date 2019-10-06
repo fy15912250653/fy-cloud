@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
 
 /**
- * Mapper是mybatis的注解
+ * Mapper是 mybatis 的注解
  * Repository是spring的注解
  * @author fy
  */
