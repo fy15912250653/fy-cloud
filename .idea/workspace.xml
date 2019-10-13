@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d5782a-a11b-4e7f-8eb6-04eb2802df8e" name="Default Changelist" comment="测试提交">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7001/target/classes/com/fy/cloud/DeptEurekaApplication7001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7001/target/classes/com/fy/cloud/DeptEurekaApplication7001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/java/com/fy/cloud/DeptProviderApplication8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/java/com/fy/cloud/DeptProviderApplication8001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/META-INF/cloudproviderdept8001.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/DeptConsumerApplication80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/DeptConsumerApplication80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/config/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/controller/DeptConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/controller/DeptConsumerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/controller/DeptConsumerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/controller/DeptConsumerController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/com/fy/cloud/DeptProviderApplication8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/com/fy/cloud/DeptProviderApplication8001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptProviderApplication8001">
+  <component name="RunManager" selected="Spring Boot.DeptConsumerApplication80">
     <configuration name="DeptApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dept" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.dept.DeptApplication" />
@@ -171,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DeptConsumerApplication80" />
         <item itemvalue="Spring Boot.DeptProviderApplication8001" />
         <item itemvalue="Spring Boot.DeptEurekaApplication7003" />
         <item itemvalue="Spring Boot.DeptEurekaApplication7002" />
         <item itemvalue="Spring Boot.DeptEurekaApplication7001" />
-        <item itemvalue="Spring Boot.DeptConsumerApplication80" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +188,7 @@
       <workItem from="1570338410585" duration="2801000" />
       <workItem from="1570341227204" duration="1818000" />
       <workItem from="1570343060775" duration="12678000" />
-      <workItem from="1570929680998" duration="1424000" />
+      <workItem from="1570929680998" duration="5538000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1570346766242</created>

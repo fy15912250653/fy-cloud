@@ -13,7 +13,14 @@ import org.springframework.web.client.RestTemplate;
 @RestController
 public class DeptConsumerController {
 
-    private static final String REST_URL_PREFIX = "http://localhost:8001";
+    /*  private static final String REST_URL_PREFIX = "http://localhost:8001";*/
+
+
+    /**
+     * 生产者application.yml中的 spring.application.name  这里用大写（在eureka中就是大写）  小写找不到
+     */
+    private static final String REST_URL_PREFIX = "http://CLOUD-DEPT";
+
 
     @Autowired
     private RestTemplate restTemplate;
