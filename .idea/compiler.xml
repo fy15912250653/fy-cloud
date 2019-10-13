@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloudeureka7001" />
         <module name="cloudapi" />
-        <module name="cloudproviderdept8001" />
+        <module name="cloudeureka7003" />
+        <module name="cloudeureka7002" />
         <module name="cloudconsumerdept80" />
+        <module name="cloudproviderdept8001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d5782a-a11b-4e7f-8eb6-04eb2802df8e" name="Default Changelist" comment="测试提交">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-7001/target/classes/com/fy/cloud/DeptEurekaApplication7001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7001/target/classes/com/fy/cloud/DeptEurekaApplication7001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/java/com/fy/cloud/DeptProviderApplication8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/java/com/fy/cloud/DeptProviderApplication8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/META-INF/cloudproviderdept8001.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/com/fy/cloud/DeptProviderApplication8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/com/fy/cloud/DeptProviderApplication8001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="fy-master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +54,7 @@
   <component name="ProjectId" id="1RofX3fqkRMd7ZYrs39kSR6RJGI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -53,14 +65,19 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-eureka-7003/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\cloud\cloud-eureka-7003\src\main\resources" />
+      <recent name="E:\cloud\cloud-eureka-7002\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cloud" />
       <recent name="com.fy.cloud" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptEurekaApplication7001">
+  <component name="RunManager" selected="Spring Boot.DeptProviderApplication8001">
     <configuration name="DeptApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dept" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.dept.DeptApplication" />
@@ -113,6 +130,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DeptEurekaApplication7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudeureka7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fy.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.cloud.DeptEurekaApplication7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptEurekaApplication7003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudeureka7003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fy.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.cloud.DeptEurekaApplication7003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeptProviderApplication8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloudproviderdept8001" />
       <extension name="coverage">
@@ -128,9 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DeptProviderApplication8001" />
+        <item itemvalue="Spring Boot.DeptEurekaApplication7003" />
+        <item itemvalue="Spring Boot.DeptEurekaApplication7002" />
         <item itemvalue="Spring Boot.DeptEurekaApplication7001" />
         <item itemvalue="Spring Boot.DeptConsumerApplication80" />
-        <item itemvalue="Spring Boot.DeptProviderApplication8001" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +191,8 @@
       <updated>1570338405861</updated>
       <workItem from="1570338410585" duration="2801000" />
       <workItem from="1570341227204" duration="1818000" />
-      <workItem from="1570343060775" duration="7024000" />
+      <workItem from="1570343060775" duration="12678000" />
+      <workItem from="1570929680998" duration="1424000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1570346766242</created>
@@ -180,7 +226,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

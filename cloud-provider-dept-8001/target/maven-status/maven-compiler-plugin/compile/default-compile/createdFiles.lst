@@ -1,0 +1,5 @@
+com\fy\cloud\controller\DeptProviderController.class
+com\fy\cloud\dao\DeptDao.class
+com\fy\cloud\service\DeptService.class
+com\fy\cloud\service\impl\DeptServiceImpl.class
+com\fy\cloud\DeptProviderApplication8001.class
