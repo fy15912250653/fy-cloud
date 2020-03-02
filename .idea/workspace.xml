@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d5782a-a11b-4e7f-8eb6-04eb2802df8e" name="Default Changelist" comment="测试提交">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="62d5782a-a11b-4e7f-8eb6-04eb2802df8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
     </list>
@@ -193,7 +190,7 @@
       <workItem from="1581074915724" duration="1598000" />
       <workItem from="1581940590554" duration="1195000" />
       <workItem from="1583115621415" duration="16000" />
-      <workItem from="1583115648649" duration="8373000" />
+      <workItem from="1583115648649" duration="8581000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1570346766242</created>
@@ -216,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570349920498</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="测试提交">
+      <created>1583156953906</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583156953906</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +248,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="873" y="360" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1583116450681" />
+    <state x="874" y="293" key="CommitChangelistDialog2" timestamp="1583156952938">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="874" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583156952938" />
     <state x="1061" y="459" key="FileChooserDialogImpl" timestamp="1581074746842">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -300,5 +308,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="784" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581075177411" />
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1583156958932">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583156958932" />
   </component>
 </project>
