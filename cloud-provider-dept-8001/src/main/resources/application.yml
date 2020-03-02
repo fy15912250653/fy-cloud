@@ -9,6 +9,7 @@ mybatis:
 
 spring:
   application:
+#    对外暴露微服务名字
     name: cloud-dept
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
