@@ -3,12 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="62d5782a-a11b-4e7f-8eb6-04eb2802df8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/DeptConsumerApplication80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/DeptConsumerApplication80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/config/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/controller/DeptConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/java/com/fy/cloud/controller/DeptConsumerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/DeptConsumerApplication80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/DeptConsumerApplication80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/config/ConfigBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/config/ConfigBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/controller/DeptConsumerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/classes/com/fy/cloud/controller/DeptConsumerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,7 +81,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -84,7 +96,7 @@
       <recent name="E:\cloud\cloud-provider-dept-8001\src\main\resources\mybatis\mapper" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptConsumerApplication80">
+  <component name="RunManager" selected="Spring Boot.DeptProviderApplication8001">
     <configuration name="DeptApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dept" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.dept.DeptApplication" />
@@ -256,58 +268,58 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581074746842" />
-    <state width="2517" height="329" key="GridCell.Tab.0.bottom" timestamp="1583154675388">
+    <state width="2517" height="329" key="GridCell.Tab.0.bottom" timestamp="1583327061875">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675388" />
-    <state width="2517" height="329" key="GridCell.Tab.0.center" timestamp="1583154675388">
+    <state width="2517" height="329" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061875" />
+    <state width="2517" height="329" key="GridCell.Tab.0.center" timestamp="1583327061875">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675388" />
-    <state width="2517" height="329" key="GridCell.Tab.0.left" timestamp="1583154675388">
+    <state width="2517" height="329" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061875" />
+    <state width="2517" height="329" key="GridCell.Tab.0.left" timestamp="1583327061875">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675388" />
-    <state width="2517" height="329" key="GridCell.Tab.0.right" timestamp="1583154675388">
+    <state width="2517" height="329" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061875" />
+    <state width="2517" height="329" key="GridCell.Tab.0.right" timestamp="1583327061875">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675388" />
-    <state width="2517" height="329" key="GridCell.Tab.1.bottom" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061875" />
+    <state width="2517" height="329" key="GridCell.Tab.1.bottom" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state width="2517" height="329" key="GridCell.Tab.1.center" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state width="2517" height="329" key="GridCell.Tab.1.center" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state width="2517" height="329" key="GridCell.Tab.1.left" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state width="2517" height="329" key="GridCell.Tab.1.left" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state width="2517" height="329" key="GridCell.Tab.1.right" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state width="2517" height="329" key="GridCell.Tab.1.right" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state width="2517" height="329" key="GridCell.Tab.2.bottom" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state width="2517" height="329" key="GridCell.Tab.2.bottom" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state width="2517" height="329" key="GridCell.Tab.2.center" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state width="2517" height="329" key="GridCell.Tab.2.center" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state width="2517" height="329" key="GridCell.Tab.2.left" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state width="2517" height="329" key="GridCell.Tab.2.left" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state width="2517" height="329" key="GridCell.Tab.2.right" timestamp="1583154675256">
+    <state width="2517" height="329" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state width="2517" height="329" key="GridCell.Tab.2.right" timestamp="1583327061770">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="329" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583154675256" />
-    <state x="784" y="346" key="SettingsEditor" timestamp="1581075177411">
+    <state width="2517" height="329" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583327061770" />
+    <state x="784" y="346" key="SettingsEditor" timestamp="1583321695874">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="784" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581075177411" />
+    <state x="784" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1583321695874" />
     <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1583156958932">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
