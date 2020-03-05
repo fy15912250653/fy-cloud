@@ -15,6 +15,9 @@
         <module>cloud-eureka-7002</module>
         <module>cloud-eureka-7003</module>
         <module>8002</module>
+        <module>cloud-privider-dept-8002</module>
+        <module>cloud-provider-dept-8002</module>
+        <module>cloud-provider-dept-8003</module>
     </modules>
     <packaging>pom</packaging>
 
