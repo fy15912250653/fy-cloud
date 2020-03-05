@@ -18,6 +18,7 @@ public class DeptConsumerController {
 
     /**
      * 生产者application.yml中的 spring.application.name  这里用大写（在eureka中就是大写）  小写找不到
+     * Ribbon和Eureka整合后Consumer可以直接调用服务而不用再关心地址和端口号
      */
     private static final String REST_URL_PREFIX = "http://CLOUD-DEPT";
 
@@ -25,7 +26,7 @@ public class DeptConsumerController {
     @Autowired
     private RestTemplate restTemplate;
 
-    @RequestMapping("/dept/{id}")
+    @RequestMapping("/consumer/dept/{id}")
     public Dept dept(@PathVariable("id") int id) {
         return restTemplate.getForObject(REST_URL_PREFIX + "/dept/" + id, Dept.class);
     }
