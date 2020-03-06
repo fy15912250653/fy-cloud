@@ -7,6 +7,11 @@ mybatis:
   mapper-locations:
     - classpath:mybatis/mapper/**/*.xml                       # mapper映射文件
 
+#打印sql日志
+logging:
+  level:
+    com.fy.cloud.dao : debug
+
 spring:
   application:
 #    对外暴露微服务名字

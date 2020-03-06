@@ -7,8 +7,14 @@ mybatis:
   mapper-locations:
     - classpath:mybatis/mapper/**/*.xml                       # mapper映射文件
 
+#打印sql日志
+logging:
+  level:
+    com.fy.cloud.dao : debug
+
 spring:
   application:
+#    对外暴露微服务名字
     name: cloud-dept
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
@@ -31,6 +37,7 @@ eureka:
     instance-id: cloud-dept8001 #自定义服务名称信息
     prefer-ip-address: true     #访问路径可以显示IP地址
 
+# actuator与注册微服务信息完善
 info:
   app.name: fy-cloud
   company.name: www.fy.com
