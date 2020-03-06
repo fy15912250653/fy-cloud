@@ -22,6 +22,7 @@
         <module name="cloud-provider-dept-8002" />
         <module name="cloud-api" />
         <module name="cloud-provider-dept-8001" />
+        <module name="cloud-consumer-dept-80-feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
