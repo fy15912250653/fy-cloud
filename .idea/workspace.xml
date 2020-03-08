@@ -3,30 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="62d5782a-a11b-4e7f-8eb6-04eb2802df8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-dept-80/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-dept-80/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7001/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7001/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7002/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7002/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7002/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7002/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7003/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7003/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7003/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7003/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-7003/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-7003/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8001/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-dept-8001/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-dept-8002/target/classes/META-INF/cloud-provider-dept-8002.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api/src/main/java/com/fy/cloud/entities/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api/src/main/java/com/fy/cloud/entities/Dept.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,10 +223,6 @@
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
@@ -413,14 +387,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="736" y="356" width="1089" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583484636809" />
+    <state x="1086" y="385" key="#com.intellij.ide.util.MemberChooser" timestamp="1583663846190">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="385" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1583663846190" />
     <state x="1011" y="593" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583482819669">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1011" y="593" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583482819669" />
-    <state x="874" y="293" key="CommitChangelistDialog2" timestamp="1583479140914">
+    <state x="874" y="293" key="CommitChangelistDialog2" timestamp="1583663935471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="874" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583479140914" />
+    <state x="874" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583663935471" />
     <state x="1061" y="459" key="FileChooserDialogImpl" timestamp="1581074746842">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

@@ -13,4 +13,31 @@ public class Dept {
     private long id;
     private String name;
     private String dbSource;
+
+    public long getId() {
+        return id;
+    }
+
+    public Dept setId(long id) {
+        this.id = id;
+        return this;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Dept setName(String name) {
+        this.name = name;
+        return this;
+    }
+
+    public String getDbSource() {
+        return dbSource;
+    }
+
+    public Dept setDbSource(String dbSource) {
+        this.dbSource = dbSource;
+        return this;
+    }
 }
