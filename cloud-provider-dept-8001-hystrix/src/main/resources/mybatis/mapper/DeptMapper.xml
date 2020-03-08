@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.fy.DeptDao">
+<mapper namespace="com.fy.com.fy.cloud.dao.DeptDao">
 
     <select id="getDeptById" resultType="com.fy.cloud.entities.Dept" parameterType="int">
         select deptno id,dname name,db_source dbSource from dept where deptno=#{id};
