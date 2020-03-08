@@ -1,2 +1,4 @@
-com\fy\cloud\entities\Dept.class
+com\fy\cloud\service\DeptClientServiceFallbackFactory$1.class
 com\fy\cloud\service\DeptClientService.class
+com\fy\cloud\entities\Dept.class
+com\fy\cloud\service\DeptClientServiceFallbackFactory.class
