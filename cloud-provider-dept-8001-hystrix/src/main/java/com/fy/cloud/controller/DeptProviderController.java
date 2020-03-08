@@ -26,10 +26,13 @@ public class DeptProviderController {
         return dept;
     }
 
-    public Dept processHystrix_Get(@PathVariable("id") Long id) {
-        return new Dept().setId(id)
-                .setName("该ID：" + id + "没有没有对应的信息,null--@HystrixCommand")
-                .setDbSource("no this database in MySQL");
+    public Dept processHystrix_Get(@PathVariable("id") int id) {
+        Dept dept = new Dept();
+        dept.setId(id);
+        dept.setName("该ID：" + id + "没有没有对应的信息,null--@HystrixCommand");
+        dept.setDbSource("no this database in MySQL");
+
+        return dept;
 
     }
 

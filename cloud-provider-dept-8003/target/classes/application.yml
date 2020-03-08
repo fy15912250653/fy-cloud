@@ -41,6 +41,6 @@ eureka:
 info:
   app.name: fy-cloud
   company.name: www.fy.com
-  build.artifactId: ${project.artifactId}
-  build.version: ${project.version}
+  build.artifactId: cloud-provider-dept-8003
+  build.version: 1.0-SNAPSHOT
   aaaaa: 这是我自定义的k-v

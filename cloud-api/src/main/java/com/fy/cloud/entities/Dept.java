@@ -1,14 +1,14 @@
 package com.fy.cloud.entities;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import lombok.experimental.Accessors;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Accessors(chain = true)
-@Getter
-@Setter
 public class Dept {
     private long id;
     private String name;
@@ -18,26 +18,23 @@ public class Dept {
         return id;
     }
 
-    public Dept setId(long id) {
+    public void setId(long id) {
         this.id = id;
-        return this;
     }
 
     public String getName() {
         return name;
     }
 
-    public Dept setName(String name) {
+    public void setName(String name) {
         this.name = name;
-        return this;
     }
 
     public String getDbSource() {
         return dbSource;
     }
 
-    public Dept setDbSource(String dbSource) {
+    public void setDbSource(String dbSource) {
         this.dbSource = dbSource;
-        return this;
     }
 }
