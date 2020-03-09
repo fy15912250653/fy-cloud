@@ -1,0 +1,14 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name:  cloud-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/fy15912250653/cloud-dept-config.git #GitHub上面的git仓库名字
+#       使用ssh后台报错   uri: git@github.com:fy15912250653/cloud-dept-config.git #GitHub上面的git仓库名字
+
+
