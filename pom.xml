@@ -79,7 +79,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>microservicecloud</finalName>
+        <finalName>cloud</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
