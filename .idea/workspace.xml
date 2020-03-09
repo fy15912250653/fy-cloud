@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d5782a-a11b-4e7f-8eb6-04eb2802df8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/java/com/fy/cloud/DeptConfigProviderApplication8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/java/com/fy/cloud/controller/DeptProviderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/java/com/fy/cloud/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/java/com/fy/cloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/java/com/fy/cloud/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/com/fy/cloud/DeptConfigProviderApplication8001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/com/fy/cloud/controller/DeptProviderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/com/fy/cloud/dao/DeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/com/fy/cloud/service/DeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/com/fy/cloud/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-dept-client-8001/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-eureka-client-7001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-eureka-client-7001/src/main/java/com/fy/cloud/DeptConfigEurekaApplication7001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-eureka-client-7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-eureka-client-7001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-eureka-client-7001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-eureka-client-7001/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-eureka-client-7001/target/classes/com/fy/cloud/DeptConfigEurekaApplication7001.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-conncet-git-3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-conncet-git-3344/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ribbon" />
+        <entry key="$PROJECT_DIR$" value="cloud-config" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +86,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -68,7 +96,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-dept-8003/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-config-dept-client-8001/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -83,11 +111,11 @@
       <recent name="cloud" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\cloud\cloud-config-dept-client-8001\src\main\resources" />
+      <recent name="E:\cloud\cloud-config-dept-client-8001\src\main\java\com\fy\cloud" />
       <recent name="E:\cloud\cloud-provider-dept-8003\src\main\resources" />
       <recent name="E:\cloud\cloud-provider-dept-8003\src\main\java" />
       <recent name="E:\cloud\cloud-provider-dept-8003" />
-      <recent name="E:\cloud\cloud-provider-dept-8002\src\main\resources" />
-      <recent name="E:\cloud\cloud-provider-dept-8002\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -97,7 +125,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptConfigClientApplication3355">
+  <component name="RunManager" selected="Spring Boot.DeptConfigProviderApplication8001">
     <configuration name="DeptConfigClientApplication3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-client-3355" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.cloud.DeptConfigClientApplication3355" />
@@ -106,9 +134,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DeptConfigEurekaApplication7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-eureka-client-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.cloud.DeptConfigEurekaApplication7001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeptConfigGitApplication3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-conncet-git-3344" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.cloud.DeptConfigGitApplication3344" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConfigProviderApplication8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-dept-client-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fy.cloud.DeptConfigProviderApplication8001" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -199,6 +243,8 @@
       <item itemvalue="Spring Boot.DeptEurekaApplication7002" />
       <item itemvalue="Spring Boot.DeptConfigGitApplication3344" />
       <item itemvalue="Spring Boot.DeptConfigClientApplication3355" />
+      <item itemvalue="Spring Boot.DeptConfigEurekaApplication7001" />
+      <item itemvalue="Spring Boot.DeptConfigProviderApplication8001" />
       <item itemvalue="Spring Boot.DeptEurekaApplication7001" />
       <item itemvalue="Spring Boot.DeptEurekaApplication7003" />
       <item itemvalue="Spring Boot.DeptProviderApplication8001" />
@@ -228,10 +274,6 @@
         <serviceView>
           <treeState>
             <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
@@ -289,7 +331,7 @@
       <workItem from="1583297711466" duration="3345000" />
       <workItem from="1583381592095" duration="3078000" />
       <workItem from="1583464748724" duration="2963000" />
-      <workItem from="1583738585352" duration="6030000" />
+      <workItem from="1583738585352" duration="8267000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1570346766242</created>
@@ -340,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583387377736</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="configService 从git上获取配置文件信息">
+      <created>1583746794567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583746794568</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,92 +412,97 @@
     <MESSAGE value="测试提交" />
     <MESSAGE value="集成eureka" />
     <MESSAGE value="ribbon" />
-    <option name="LAST_COMMIT_MESSAGE" value="ribbon" />
+    <MESSAGE value="configService 从git上获取配置文件信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="configService 从git上获取配置文件信息" />
   </component>
   <component name="WindowStateProjectService">
     <state x="873" y="360" key="#Project_Structure" timestamp="1583737752084">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="873" y="360" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1583737752084" />
-    <state x="736" y="356" width="1089" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583746156057">
+    <state x="736" y="356" width="1089" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583748502854">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="736" y="356" width="1089" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583746156057" />
-    <state x="1011" y="593" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583746151716">
+    <state x="736" y="356" width="1089" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583748502854" />
+    <state x="1013" y="504" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583747600600">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1011" y="593" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583746151716" />
-    <state x="874" y="293" key="CommitChangelistDialog2" timestamp="1583725867957">
+    <state x="1013" y="504" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1583747600600" />
+    <state x="1011" y="593" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583748498964">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="874" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583725867957" />
+    <state x="1011" y="593" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583748498964" />
+    <state x="874" y="293" key="CommitChangelistDialog2" timestamp="1583746792612">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="874" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583746792612" />
     <state x="1061" y="459" key="FileChooserDialogImpl" timestamp="1581074746842">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581074746842" />
-    <state width="1741" height="671" key="GridCell.Tab.0.bottom" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.0.bottom" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="671" key="GridCell.Tab.0.center" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
+    <state width="1741" height="512" key="GridCell.Tab.0.center" timestamp="1583748829049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="671" key="GridCell.Tab.0.left" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829049" />
+    <state width="1741" height="512" key="GridCell.Tab.0.left" timestamp="1583748829049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="671" key="GridCell.Tab.0.right" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829049" />
+    <state width="1741" height="512" key="GridCell.Tab.0.right" timestamp="1583748829049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="671" key="GridCell.Tab.1.bottom" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829049" />
+    <state width="1741" height="512" key="GridCell.Tab.1.bottom" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="671" key="GridCell.Tab.1.center" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
+    <state width="1741" height="512" key="GridCell.Tab.1.center" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="671" key="GridCell.Tab.1.left" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
+    <state width="1741" height="512" key="GridCell.Tab.1.left" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="671" key="GridCell.Tab.1.right" timestamp="1583746719410">
+    <state width="1741" height="512" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
+    <state width="1741" height="512" key="GridCell.Tab.1.right" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="671" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583746719410" />
-    <state width="1741" height="340" key="GridCell.Tab.2.bottom" timestamp="1583746632095">
+    <state width="1741" height="512" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
+    <state width="1741" height="512" key="GridCell.Tab.2.bottom" timestamp="1583748829051">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="340" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583746632095" />
-    <state width="1741" height="340" key="GridCell.Tab.2.center" timestamp="1583746632095">
+    <state width="1741" height="512" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829051" />
+    <state width="1741" height="512" key="GridCell.Tab.2.center" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="340" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583746632095" />
-    <state width="1741" height="340" key="GridCell.Tab.2.left" timestamp="1583746632095">
+    <state width="1741" height="512" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
+    <state width="1741" height="512" key="GridCell.Tab.2.left" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="340" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583746632095" />
-    <state width="1741" height="340" key="GridCell.Tab.2.right" timestamp="1583746632095">
+    <state width="1741" height="512" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
+    <state width="1741" height="512" key="GridCell.Tab.2.right" timestamp="1583748829050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1741" height="340" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583746632095" />
+    <state width="1741" height="512" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583748829050" />
     <state x="784" y="346" key="SettingsEditor" timestamp="1583738458321">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="784" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1583738458321" />
-    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1583725874553">
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1583748848205">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583725874553" />
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583748848205" />
     <state x="961" y="300" width="638" height="801" key="find.popup" timestamp="1583157295249">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="961" y="300" width="638" height="801" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1583157295249" />
-    <state x="668" y="396" key="new project wizard" timestamp="1583745687396">
+    <state x="668" y="396" key="new project wizard" timestamp="1583747791224">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="668" y="396" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1583745687396" />
+    <state x="668" y="396" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1583747791224" />
   </component>
 </project>

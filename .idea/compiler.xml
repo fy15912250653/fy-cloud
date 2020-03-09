@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="8002" />
+        <module name="cloud-config-eureka-client-7001" />
         <module name="cloud-privider-dept-8002" />
+        <module name="cloud-config-dept-client-8001" />
         <module name="cloud-consumer-dept-80" />
         <module name="cloud-eureka-7003" />
         <module name="cloudconsumerdept80" />
