@@ -1,0 +1,35 @@
+server:
+  port: 9527
+
+spring:
+  application:
+#    对外暴露微服务名字
+    name: cloud-dept-zuul-gateway
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+#      fy:发现这里只写一个eureka，其他集群也能在页面上看见
+      defaultZone: http://localhost:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+    instance-id: gateway-9527.com # 没有zuul的配置情况下：新的访问路径 http://myzuul.com:9527/cloud-dept/dept/1 域名映射+端口号+微服务名+相对路径
+    prefer-ip-address: true     #访问路径可以显示IP地址
+
+zuul:
+#  http://myzuul.com:9527/cloud-dept/dept/1 不能访问，不能使用微服务名访问
+#   ignored-services: "*" 所有微服务名都不能使用
+  ignored-services: cloud-dept
+  routes:
+#  新的访问路径 http://myzuul.com:9527/mydept/dept/1 mydept替换掉微服务名
+    mydept.serviceId: cloud-dept
+    mydept.path: /mydept/**
+#  设置前缀
+  prefix: /fy
+
+# actuator与注册微服务信息完善
+info:
+  app.name: fy-cloud
+  company.name: www.fy.com
+  build.artifactId: cloud-zuul-gateway-9527
+  build.version: 1.0-SNAPSHOT
+  aaaaa: 这是我自定义的k-v

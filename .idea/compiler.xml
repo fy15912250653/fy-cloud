@@ -9,6 +9,7 @@
         <module name="cloud-privider-dept-8002" />
         <module name="cloud-consumer-dept-80" />
         <module name="cloud-eureka-7001" />
+        <module name="cloud-zuul-gateway-9527" />
         <module name="cloudconsumerdept80" />
         <module name="cloudproviderdept8001" />
         <module name="cloud-provider-dept-8003" />
