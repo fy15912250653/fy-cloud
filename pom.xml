@@ -17,6 +17,7 @@
         <module>cloud-provider-dept-8002</module>
         <module>cloud-provider-dept-8003</module>
         <module>cloud-provider-dept-8001-hystrix</module>
+        <module>cloud-consumer-hystrix-dashboard</module>
     </modules>
     <packaging>pom</packaging>
 
